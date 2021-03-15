@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Facebook UI',
-       debugShowCheckedModeBanner: false,
+      //  debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
         // visualDensity: VisualDensity.adaptivePlatformDensity,
